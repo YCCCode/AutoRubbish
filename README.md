@@ -5,4 +5,4 @@
 rabbish.py 主程序
 demo.mp4   要求的自制环保视频
 
-![Uploading wx_camera_1694425546473.jpg…]()
+![Uploading image.png…]()
